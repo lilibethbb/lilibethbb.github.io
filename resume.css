@@ -1,0 +1,43 @@
+.flip-card {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+  }
+  
+  .flip-card:nth-of-type(1) {
+    top: 50px;
+    left: 50px;
+  }
+  
+  .flip-card:nth-of-type(2) {
+    top: 50px;
+    left: 400px;
+  }
+  
+  .flip-card:nth-of-type(3) {
+    top: 50px;
+    left: 750px;
+  }
+  
+  .flip-card:nth-of-type(4) {
+    top: 400px;
+    left: 50px;
+  }
+  
+  .flip-card:nth-of-type(5) {
+    top: 400px;
+    left: 400px;
+  }
+  
+  .flip-card:nth-of-type(6) {
+    
+    top:400px;
+    left: 750px;
+  }
+  
+  .flip-card:nth-of-type(7) {
+    top: 750px;
+    left: 50px;
+  }
+  
+  /* Add more flip cards as needed and adjust their positioning */
